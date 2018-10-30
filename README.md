@@ -1,2 +1,2 @@
 # discord_bot_tests
-testing discord bots, eventually a self bots
+testing discord bots, eventually self bots
